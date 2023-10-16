@@ -3,7 +3,7 @@
 class MainController {
 
 	all(req, res, next) {
-		res.json({ message: 'Example request.' });
+		res.json({ message: 'Ejemplo' });
 	}
 
 	create(req, res, next) {
